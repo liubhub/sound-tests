@@ -1,0 +1,16 @@
+.ipynb_checkpoints
+RAVDESS/.ipynb_checkpoints
+RAVDESS/0_all_songs
+RAVDESS/dump
+RAVDESS/renamed_sources
+RAVDESS/video
+RAVDESS/wav_from_video
+RAVDESS/wav_from_video_copy
+*.txt
+1_spectrograms
+*.png
+resources
+*.ipynb
+0_all_wav_data
+local_simple/
+__pycache__
