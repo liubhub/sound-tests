@@ -1,0 +1,3 @@
+.ipynb_checkpoints/*
+asteroid/.ipynb_checkpoints*
+asteroid/__pycache__/*
